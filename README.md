@@ -1,4 +1,4 @@
-# Project Title
+# X (formerly Twitter) Clone
 
 A brief description of your project.
 
